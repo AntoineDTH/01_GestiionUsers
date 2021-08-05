@@ -6,6 +6,7 @@ public class Utilisateur {
 	private String nom;
 	private String prenom;
 	private int age;
+	private String username;
 	
 	// Constructeurs
 	public Utilisateur() {
